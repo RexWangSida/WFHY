@@ -1,0 +1,168 @@
+#nav{
+  margin-top: 40px;
+}
+
+#nav-title{
+  margin-right: 5px;
+}
+#sida{
+  font-size:24px;
+  font-weight: 600;
+  transition:0.6s;
+}
+#sida:hover{
+  color:rgb(111,111,111);
+}
+#about{
+  margin-top: 30px;
+  font-size:24px;
+  color:rgb(0,0,0);
+  border-bottom: 1px solid transparent;
+  transition:0.8s;
+}
+#award{
+  margin-top: 30px;
+  font-size:24px;
+  color:rgb(0,0,0);
+  border-bottom: 1px solid transparent;
+  transition:0.8s;
+}
+#courses{
+  margin-top: 30px;
+  font-size:24px;
+  color:rgb(0,0,0);
+  border-bottom: 1px solid transparent;
+  transition:0.8s;
+}
+#projects{
+  margin-top: 30px;
+  font-size:24px;
+  color:rgb(0,0,0);
+  border-bottom: 1px solid transparent;
+  transition:0.8s;
+}
+#blog{
+  margin-top: 30px;
+  font-size:24px;
+  color:rgb(0,0,0);
+  border-bottom: 1px solid transparent;
+  transition:0.8s;
+}
+#about:hover{
+  color:rgb(111,111,111);
+  border-bottom: 2px solid rgb(81,81,81);
+}
+#award:hover{
+  color:rgb(111,111,111);
+  border-bottom: 2px solid rgb(81,81,81);
+}
+#courses:hover{
+  color:rgb(111,111,111);
+  border-bottom: 2px solid rgb(81,81,81);
+}
+#projects:hover{
+  color:rgb(111,111,111);
+  border-bottom: 2px solid rgb(81,81,81);
+}
+#blog:hover{
+  color:rgb(111,111,111);
+  border-bottom: 2px solid rgb(81,81,81);
+}
+#contact:hover{
+  color:rgb(111,111,111);
+  border-bottom: 2px solid rgb(81,81,81);
+}
+p{
+  font-family: Lato,Helvetica,sans-serif;
+  font-style: normal;
+  font-variant: normal;
+  color: rgb(0, 0, 0);
+}
+
+#portrait{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 26%;
+  height: 26%;
+}
+
+#mid{
+  margin-top: 60px;
+}
+#bottom{
+  margin-top: 20px;
+}
+#icons{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#linkedin:hover a
+{
+    color: rgb(10,1,1);
+    text-decoration: none;
+}
+#git:hover a
+{
+    color: rgb(10,1,1);
+    text-decoration: none;
+}
+
+h1,h2,h3,h4,h5,h6{
+  font-family: Lato,Helvetica,sans-serif;
+  font-style: normal;
+  font-variant: normal;
+  color: rgb(0, 0, 0);
+}
+#linkedin{
+  font-size:36px;
+  color:rgb(0,0,0);
+  margin:4px;
+  transition: 0.5s;
+}
+#git{
+  font-size:36px;
+  color:rgb(0,0,0);
+  margin:4px;
+  transition: 0.5s;
+}
+#linkedin:hover{
+  color:rgb(111,111,111);
+}
+#git:hover{
+  color:rgb(111,111,111);
+}
+
+
+hr {
+  border: 0;
+  clear:both;
+  display:block;
+  width: 80%;
+  background-color:rgb(211,211,211);
+  height: 5px;
+}
+a { color: inherit; }
+a:hover { color: rgb(81,81,81); }
+/*About*/
+#frame,#frame1,#frame2{
+  margin-top: 40px;
+  margin-left: auto;
+  margin-right:auto;
+  min-width: 1080px;
+}
+/*certificates*/
+#cert1, #cert2{
+  width: 200px;
+  height: 150px;
+  border: 2px solid #555;
+}
+/*projects*/
+#craftmaster{
+  border: 2px solid #555;
+}
+#seg{
+  border: 2px solid #555;
+}
+#link:hover{ color: rgb(81,81,81); }
