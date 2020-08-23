@@ -166,3 +166,15 @@ a:hover { color: rgb(81,81,81); }
   border: 2px solid #555;
 }
 #link:hover{ color: rgb(81,81,81); }
+
+
+table.table-bordered{
+    border:2px solid #0077ca;
+    margin-top:20px;
+  }
+table.table-bordered > thead > tr > th{
+    border:2px solid #0077ca;
+}
+table.table-bordered > tbody > tr > td {
+    border:2px solid #0077ca;
+}
